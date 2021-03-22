@@ -1,0 +1,16 @@
+{
+"companyName": "Duke_CW",
+"productName": "Covid Warrior",
+"productVersion": "0.1",
+"dataUrl": "webGL lvl2 alpha0.0.7.3 .data.unityweb",
+"wasmCodeUrl": "webGL lvl2 alpha0.0.7.3 .wasm.code.unityweb",
+"wasmFrameworkUrl": "webGL lvl2 alpha0.0.7.3 .wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}

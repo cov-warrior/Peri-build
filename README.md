@@ -1,4 +1,4 @@
-# covid-warrior-build
+# Peri-build
 Public repository for builds, playtesting.
 
 [World 1](https://cov-warrior.github.io/covid-warrior-build/level1)
